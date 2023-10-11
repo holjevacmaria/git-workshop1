@@ -1,9 +1,9 @@
 [
   {
-    "firstName": "Jason",
-    "lastName": "Bourne",
-    "age": 40,
-    "gender": "Male"
+    "firstName": "Maria",
+    "lastName": "Holjevac",
+    "age": 26,
+    "gender": "Female"
   },
   {
     "firstName": "Marie",
@@ -22,11 +22,5 @@
     "lastName": "Parsons",
     "age": 36,
     "gender": "Female"
-  },
-  {
-    "firstName": "David",
-    "lastName": "Webb",
-    "age": 38,
-    "gender": "Male"
   }
 ]
